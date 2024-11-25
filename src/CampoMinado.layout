@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="All" />
+	<File name="src\actions.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="4875" topLine="10" />
+	</File>
+	<File name="src\cells.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="397" topLine="0" />
+	</File>
+	<File name="src\cells.h" open="0" top="0" tabpos="0">
+		<Cursor position="57" topLine="0" />
+	</File>
+	<File name="src\engine.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="617" topLine="0" />
+	</File>
+	<File name="src\engine.h" open="0" top="0" tabpos="0">
+		<Cursor position="319" topLine="12" />
+	</File>
+	<File name="src\frame.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="39" topLine="0" />
+	</File>
+	<File name="src\game.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="799" topLine="0" />
+	</File>
+	<File name="src\game.h" open="1" top="0" tabpos="3">
+		<Cursor position="2666" topLine="75" />
+	</File>
+	<File name="src\gamestates.h" open="1" top="0" tabpos="2">
+		<Cursor position="260" topLine="0" />
+	</File>
+	<File name="src\graphics.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="312" topLine="0" />
+	</File>
+	<File name="src\graphics.h" open="0" top="0" tabpos="0">
+		<Cursor position="425" topLine="19" />
+	</File>
+	<File name="src\intro.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="133" topLine="0" />
+	</File>
+	<File name="src\intro.h" open="0" top="0" tabpos="0">
+		<Cursor position="205" topLine="0" />
+	</File>
+	<File name="src\main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="191" topLine="0" />
+	</File>
+	<File name="src\main.h" open="0" top="0" tabpos="0">
+		<Cursor position="176" topLine="0" />
+	</File>
+	<File name="src\mbuttons.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="357" topLine="23" />
+	</File>
+	<File name="src\mbuttons.h" open="0" top="0" tabpos="0">
+		<Cursor position="145" topLine="0" />
+	</File>
+	<File name="src\menu.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="837" topLine="0" />
+	</File>
+	<File name="src\menu.h" open="0" top="0" tabpos="0">
+		<Cursor position="462" topLine="17" />
+	</File>
+	<File name="src\mouse.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="254" topLine="0" />
+	</File>
+	<File name="src\timer.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="157" topLine="0" />
+	</File>
+	<File name="src\timer.h" open="0" top="0" tabpos="0">
+		<Cursor position="291" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

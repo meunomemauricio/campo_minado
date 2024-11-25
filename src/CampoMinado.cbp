@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Campo Minado" />
+		<Option pch_mode="0" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="CampoMinado.exe" prefix_auto="0" extension_auto="0" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option projectResourceIncludeDirsRelation="0" />
+			</Target>
+		</Build>
+		<VirtualTargets>
+			<Add alias="All" targets="default;" />
+		</VirtualTargets>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL" />
+			<Add library="SDL_ttf" />
+		</Linker>
+		<Unit filename="src\actions.cpp" />
+		<Unit filename="src\cells.cpp" />
+		<Unit filename="src\cells.h" />
+		<Unit filename="src\engine.cpp" />
+		<Unit filename="src\engine.h" />
+		<Unit filename="src\frame.cpp" />
+		<Unit filename="src\game.cpp" />
+		<Unit filename="src\game.h" />
+		<Unit filename="src\gamestates.h" />
+		<Unit filename="src\graphics.cpp" />
+		<Unit filename="src\graphics.h" />
+		<Unit filename="src\intro.cpp" />
+		<Unit filename="src\intro.h" />
+		<Unit filename="src\main.cpp" />
+		<Unit filename="src\main.h" />
+		<Unit filename="src\mbuttons.cpp" />
+		<Unit filename="src\mbuttons.h" />
+		<Unit filename="src\menu.cpp" />
+		<Unit filename="src\menu.h" />
+		<Unit filename="src\mouse.cpp" />
+		<Unit filename="src\timer.cpp" />
+		<Unit filename="src\timer.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

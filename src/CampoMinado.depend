@@ -1,0 +1,400 @@
+# depslib dependency file v1.0
+1196538717 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\minesweeper\campo minado - c++\tabuleiro.cpp
+	"cminado.hpp"
+	"funcoes.hpp"
+
+1196539124 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\minesweeper\campo minado - c++\cminado.hpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1196539050 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\minesweeper\campo minado - c++\funcoes.hpp
+
+1196539094 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\minesweeper\campo minado - c++\cm_principal.cpp
+	"cminado.hpp"
+	"funcoes.hpp"
+
+1197157788 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\minesweeper\campo minado - c++\principal.cpp
+	"principal.h"
+	"tabuleiro.h"
+
+1197157872 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\minesweeper\campo minado - c++\principal.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<gl\gl.h>
+	<gl\glu.h>
+
+1197153807 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\minesweeper\campo minado - c++\tabuleiro.h
+
+1197736535 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\campo minado\codigo\principal.cpp
+	"principal.h"
+	"tabuleiro.h"
+	"grafico.h"
+
+1197659950 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\campo minado\codigo\principal.h
+	<iostream>
+	<ctime>
+	<string>
+	"SDL/SDL.h"
+
+1197737650 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\campo minado\codigo\tabuleiro.h
+	"cbotao.h"
+
+1197659670 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\campo minado\codigo\grafico.h
+
+1197737549 c:\documents and settings\muthauzem\desktop\muthauzem\scripting\programas\campo minado\codigo\cbotao.h
+
+1198095312 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\principal.cpp
+	"principal.h"
+	"tabuleiro.h"
+	"grafico.h"
+
+1198095706 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\principal.h
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	"SDL/SDL.h"
+
+1198095447 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\tabuleiro.h
+	"cbotao.h"
+
+1198095490 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\cbotao.h
+
+1198095378 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\grafico.h
+
+1198874595 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\buttons.cpp
+	"buttons.h"
+
+1198874591 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\buttons.h
+	"main.h"
+
+1198869809 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\main.h
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	"SDL/SDL.h"
+
+1198874661 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\graphics.cpp
+	"engine.h"
+
+1198105265 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\graphics.h
+	"main.h"
+	"board.h"
+
+1198201405 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\board.h
+	"main.h"
+	"buttons.h"
+
+1198687482 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\main.cpp
+	"main.h"
+	"engine.h"
+
+1198704402 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\board.cpp
+	"engine.h"
+	"buttons.h"
+
+1198872778 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\engine.cpp
+	"engine.h"
+
+1198874651 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\engine.h
+	"main.h"
+	"board.h"
+
+1198874649 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\events.cpp
+	"engine.h"
+
+1198874400 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\mouse.cpp
+	"engine.h"
+
+1198874514 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\codigo\temp.cpp
+	"engine.h"
+
+1198890643 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\buttons.cpp
+	"buttons.h"
+
+1198890615 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\buttons.h
+	"main.h"
+
+1199037964 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\main.h
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	"SDL/SDL.h"
+
+1199042664 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\engine.cpp
+	"engine.h"
+
+1199041031 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\engine.h
+	"main.h"
+	"graphics.h"
+	"gamestates.h"
+	"intro.h"
+	"menu.h"
+	"game.h"
+
+1198201405 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\board.h
+	"main.h"
+	"buttons.h"
+
+1199042699 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\graphics.cpp
+	"engine.h"
+
+1199038719 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\main.cpp
+	"main.h"
+	"engine.h"
+
+1198874400 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\mouse.cpp
+	"engine.h"
+
+1198937085 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\temp.cpp
+	"engine.h"
+
+1198935715 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\board.cpp
+	"engine.h"
+	"buttons.h"
+
+1198890377 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\events.cpp
+	"engine.h"
+
+1199038719 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\graphics.h
+	"main.h"
+
+1199042741 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\intro.h
+	"main.h"
+	"graphics.h"
+	"gamestates.h"
+
+1199043148 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\gamestates.h
+	"main.h"
+	"graphics.h"
+
+1199040988 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\menu.h
+	"main.h"
+	"graphics.h"
+	"gamestates.h"
+
+1199042500 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\game.h
+	"main.h"
+	"gamestates.h"
+	"graphics.h"
+	"buttons.h"
+
+1199042527 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\game.cpp
+	"game.h"
+
+1199042754 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\intro.cpp
+	"intro.h"
+
+1199042889 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\actions.cpp
+	"game.h"
+
+1199198378 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\buttons.cpp
+	"buttons.h"
+
+1199198472 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\buttons.h
+	"main.h"
+
+1199159303 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\main.h
+	<iostream>
+	<ctime>
+	<string>
+	<sstream>
+	<vector>
+	"SDL/SDL.h"
+
+1199147798 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\game.cpp
+	"game.h"
+
+1199156967 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\game.h
+	"main.h"
+	"gamestates.h"
+	"graphics.h"
+	"cells.h"
+
+1199043494 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\gamestates.h
+	"main.h"
+	"graphics.h"
+
+1199142979 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\graphics.h
+	"main.h"
+
+1199199516 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\graphics.cpp
+	"engine.h"
+
+1199197026 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\engine.h
+	"main.h"
+	"graphics.h"
+	"gamestates.h"
+	"intro.h"
+	"menu.h"
+	"game.h"
+
+1199149665 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\intro.h
+	"main.h"
+	"graphics.h"
+	"gamestates.h"
+
+1199157306 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\menu.h
+	"main.h"
+	"graphics.h"
+	"gamestates.h"
+	"buttons.h"
+
+1199198573 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\intro.cpp
+	"intro.h"
+
+1199043830 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\main.cpp
+	"main.h"
+	"engine.h"
+
+1199197284 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\actions.cpp
+	"game.h"
+
+1199197181 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\engine.cpp
+	"engine.h"
+
+1199156871 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\cells.h
+	"main.h"
+
+1199156775 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\cells.cpp
+	"cells.h"
+
+1199199092 c:\documents and settings\muthauzem\desktop\muthauzem\programação\campo minado\desenvolvimento\src\menu.cpp
+	"menu.h"
+
+1199577233 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\actions.cpp
+	"game.h"
+
+1215302434 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\game.h
+	"main.h"
+	"gamestates.h"
+	"graphics.h"
+	"timer.h"
+	"cells.h"
+
+1199569684 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\main.h
+	<iostream>
+	<ctime>
+	<string>
+	<sstream>
+	<vector>
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+
+1199310656 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\gamestates.h
+	"main.h"
+	"graphics.h"
+
+1199650145 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\graphics.h
+	"main.h"
+
+1199403655 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\cells.h
+	"main.h"
+
+1199313554 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\buttons.cpp
+	"buttons.h"
+
+1199308972 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\buttons.h
+	"main.h"
+
+1199368085 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\cells.cpp
+	"cells.h"
+
+1199575341 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\engine.cpp
+	"engine.h"
+
+1199310695 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\engine.h
+	"main.h"
+	"graphics.h"
+	"gamestates.h"
+	"intro.h"
+	"menu.h"
+	"game.h"
+
+1199310723 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\intro.h
+	"main.h"
+	"graphics.h"
+	"gamestates.h"
+
+1199569321 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\menu.h
+	"main.h"
+	"graphics.h"
+	"gamestates.h"
+	"mbuttons.h"
+
+1199658356 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\game.cpp
+	"game.h"
+
+1199653309 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\graphics.cpp
+	"engine.h"
+
+1199574822 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\intro.cpp
+	"intro.h"
+
+1199043830 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\main.cpp
+	"main.h"
+	"engine.h"
+
+1199574836 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\menu.cpp
+	"menu.h"
+
+1199572821 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\mouse.cpp
+	"game.h"
+
+1199403571 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\mbuttons.h
+	"main.h"
+
+1199403861 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\mbuttons.cpp
+	"mbuttons.h"
+
+1199658302 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\frame.cpp
+	"game.h"
+
+1199569165 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\timer.h
+	"main.h"
+
+1199572989 c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\timer.cpp
+	"timer.h"
+
+1199573633 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\actions.cpp
+	"game.h"
+
+1199364485 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\cells.cpp
+	"cells.h"
+
+1199571741 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\engine.cpp
+	"engine.h"
+
+1199654702 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\frame.cpp
+	"game.h"
+
+1199655165 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\game.cpp
+	"game.h"
+
+1199649709 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\graphics.cpp
+	"engine.h"
+
+1199571222 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\intro.cpp
+	"intro.h"
+
+1199040230 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\main.cpp
+	"main.h"
+	"engine.h"
+
+1199400261 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\mbuttons.cpp
+	"mbuttons.h"
+
+1199571236 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\menu.cpp
+	"menu.h"
+
+1199569221 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\mouse.cpp
+	"game.h"
+
+1199569389 source:c:\documents and settings\muthauzem\desktop\muthauzem\programação\programas(mine)\campo minado\desenvolvimento\src\timer.cpp
+	"timer.h"
+
